@@ -8,8 +8,8 @@ Hi there, this is my new Flutter project.The code for this app has been written 
 ```Dart
 custom_fade_animation:
   git:
-    url:  https://github.com/Jaydip04/custom_fade_animation.git
-    ref:master
+    url: https://github.com/Jaydip04/custom_fade_animation.git
+    ref: master
 ```
 
 ### Easy to use

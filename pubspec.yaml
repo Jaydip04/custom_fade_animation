@@ -2,7 +2,7 @@ name: custom_fade_animation
 description: "To be able to show a custom fade animation easily"
 version: 0.0.1
 author: Jaydip Tank<jaydiptank2004@gmail.com>
-homepage:
+homepage: https://github.com/Jaydip04/custom_fade_animation.git
 
 environment:
   sdk: ^3.5.0
